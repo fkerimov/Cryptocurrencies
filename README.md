@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Overview:
-Analysis and classification of the traded cryptocurrencies on the cryptocurrency market using unsupervised machine learning.
+Analysis and classification of traded cryptocurrencies on the cryptocurrency market using unsupervised machine learning.
 
 ## Steps:
 
